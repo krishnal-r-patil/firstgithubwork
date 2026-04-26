@@ -63,7 +63,7 @@ while True:
         print("3. Send Money")
         print("4. Check Balance")
         print("5. Back to User Selection")
-        print("6. Close and Cancel ")
+        #print("6. Close and Cancel ")
 
         option = int(input("Enter choice: "))
 
