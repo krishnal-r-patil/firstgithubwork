@@ -75,7 +75,7 @@ while True:
             amount = float(input("Enter amount: "))
             current_user.withdraw(amount)
 
-        elif option == 3:
+        elif option == 3: 
             print("\nSelect Receiver:")
             for i in range(len(accounts)):
                 print(f"{i+1}. {accounts[i].name}")
