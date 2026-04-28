@@ -27,7 +27,7 @@ class BankAccount:
         print(f"{self.name}'s Balance: ₹{self.balance}")
 
 
-# accounts
+# accounts 
 accounts = [
     BankAccount("Amit", 1000),
     BankAccount("Rahul", 1500),
