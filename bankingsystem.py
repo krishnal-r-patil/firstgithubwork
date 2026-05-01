@@ -19,7 +19,7 @@ class BankAccount:
         if amount > self.balance:
             print("Not enough balance!")
         else:
-            self.balance -= amount
+            self.balance -= amount 
             receiver.balance += amount
             print(f"₹{amount} sent to {receiver.name}")
 
