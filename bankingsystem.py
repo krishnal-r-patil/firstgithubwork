@@ -31,7 +31,7 @@ class BankAccount:
 accounts = [
     BankAccount("Amit", 1000),
     BankAccount("Rahul", 1500),
-    BankAccount("Sneha", 2000)
+    BankAccount("Sneha", 2000) 
 ]
 
 
