@@ -1,5 +1,5 @@
 # logic behind the calculations
-class BankAccount: 
+class BankAccount:  
     def __init__(self, name, balance):
         self.name = name
         self.balance = balance
