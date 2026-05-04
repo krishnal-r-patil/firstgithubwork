@@ -1,4 +1,4 @@
- #logic behind the calculations is
+ #logic behind the calculations i
 class BankAccount:   
     def __init__(self, name, balance):
         self.name = name
@@ -41,7 +41,7 @@ while True:
     for i in range(len(accounts)):
         print(f"{i+1}. {accounts[i].name}")
 
-    print("0. Exit")
+    print("0. Exit") 
 
     choice = int(input("Select user: "))
 
