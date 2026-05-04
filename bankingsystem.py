@@ -83,7 +83,7 @@ while True:
             r = int(input("Enter receiver: "))
             if r < 1 or r > len(accounts):
                 print("Invalid receiver!")
-                continue
+                continue 
 
             receiver = accounts[r - 1]
             amount = float(input("Enter amount: "))
