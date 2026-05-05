@@ -1,4 +1,4 @@
- #logic behind the calculations q
+ #logic behind the calculations qr
 class BankAccount:   
     def __init__(self, name, balance):
         self.name = name
