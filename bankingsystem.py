@@ -1,4 +1,4 @@
- #logic behind the calculations is as
+ur #logic behind the calculations iss
 class BankAccount:   
     def __init__(self, name, balance):
         self.name = name
