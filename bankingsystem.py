@@ -12,7 +12,7 @@ class BankAccount:
         if amount > self.balance:
             print("Insufficient balance!")
         else: 
-            self.balance -= amount
+            self.balance -= amount 
             print(f"₹{amount} withdrawn successfully.")
 
     def send_money(self, receiver, amount):
