@@ -1,4 +1,4 @@
-#logic behind the calculation are an
+#logic behind the calculation are ann
 class BankAccount:   
     def __init__(self, name, balance):
         self.name = name
