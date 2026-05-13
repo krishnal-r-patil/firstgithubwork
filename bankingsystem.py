@@ -1,4 +1,4 @@
-#logic behind the calculation rq ew t
+#logic behind the calculation rq ew tw
 class BankAccount:   
     def __init__(self, name, balance):
         self.name = name
