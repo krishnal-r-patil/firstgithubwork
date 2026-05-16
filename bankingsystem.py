@@ -1,4 +1,4 @@
-#logic behind the calculation is an automatica
+#logic behind the calculation is an automati
 class BankAccount:      
     def __init__(self, name, balance):
         self.name = name
