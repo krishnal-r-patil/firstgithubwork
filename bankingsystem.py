@@ -1,4 +1,4 @@
-#logic behind the calculation in ban
+#logic behind the calculation in ba
 class BankAccount:      
     def __init__(self, name, balance):
         self.name = name
