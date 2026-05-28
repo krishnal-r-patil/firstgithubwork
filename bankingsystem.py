@@ -1,4 +1,4 @@
-#logic behind the calculations arcl
+#logic behind the calculations arfdcl
 class BankAccount:      
     def __init__(self, name, balance):
         self.name = name
