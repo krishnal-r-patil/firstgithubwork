@@ -1,4 +1,4 @@
-#logic behind the calculations arfd
+#logic behind the calculations ard
 class BankAccount:      
     def __init__(self, name, balance):
         self.name = name
