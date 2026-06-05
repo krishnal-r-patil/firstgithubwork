@@ -1,4 +1,4 @@
-#logic behind the calculations is umd
+#logic behind the calculations is um
 class BankAccount:      
     def __init__(self, name, balance):
         self.name = name
